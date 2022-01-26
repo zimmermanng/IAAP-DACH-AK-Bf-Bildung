@@ -10,6 +10,5 @@ Der Arbeitskreis "Barrierefreiheit in der Bildung" befasst sich mit den folgende
 Wir treffen uns jeden 2. Monat. Task Forces machen die eigentliche Arbeit zwischen den Meetings.
 
 Wichtige Links:
-- [Wiki mit Protokollen](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
+- [Wiki home](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
 - [Aktivitäten (Issues)](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/issues)
-- [Themen des AK](https://gitlab.bf-hdm.de/iaap-dach-public/ak-bildungspolitik/-/wikis/Themen-des-AK-Bildungspolitik)
