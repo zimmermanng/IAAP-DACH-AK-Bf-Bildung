@@ -11,7 +11,7 @@ Der Arbeitskreis befasst sich insbesondere mit den folgenden Themenblöcken:
 
 Der Arbeitskreis ist grundsätzlich offen für alle Interessierten. Eine Mitgliedschaft in IAAP ist nicht erforderlich. Task Forces machen die eigentliche Arbeit zwischen den Meetings. Protokolle und Zwischenstände der Aktivitäten sind öffentlich einsehbar.
 
-Wir treffen uns regelmäßig am 4. Mittwoch in ungeraden Monaten. 
+Wir treffen uns immer am 4. Mittwoch in ungeraden Monaten um 15-17 Uhr per Videokonferenz. 
 
 Wichtige Links:
 - [Wiki home](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
