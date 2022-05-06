@@ -9,11 +9,11 @@ Der Arbeitskreis befasst sich insbesondere mit den folgenden Themenblöcken:
 4. Sensibilisierung & Awareness
 5. Best Practices
 
-Der Arbeitskreis ist grundsätzlich offen für alle Interessierten. Eine Mitgliedschaft in IAAP ist nicht erforderlich. Task Forces machen die eigentliche Arbeit zwischen den Meetings. Protokolle und Zwischenstände der Aktivitäten sind öffentlich einsehbar.
+Der Arbeitskreis ist grundsätzlich offen für alle Interessierten. Eine Mitgliedschaft in IAAP ist nicht erforderlich. Task Forces machen die eigentliche Arbeit zwischen den Meetings. Die Protokolle des Arbeitskreises sind öffentlich einsehbar (siehe [AK-Wiki](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/wikis/home)).
 
 Aktive Task-Forces (Zugang nur für Mitglieder des AK):
 - [Thema Curriculum](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/2)
-- [Barrierefreie Formate in Lernkontexten)(https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/3)
+- [Barrierefreie Formate in Lernkontexten](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/3)
 
 Wir treffen uns immer am 4. Mittwoch in ungeraden Monaten um 15-17 Uhr per Videokonferenz. 
 
