@@ -20,4 +20,4 @@ Aktuelle Themen (Zugang nur für Mitglieder des AK):
 
 Wir treffen uns immer am 4. Mittwoch in ungeraden Monaten um 15-17 Uhr per Videokonferenz. 
 
-[Zum öffentlichen AK-Wiki](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
+[Zum internen AK-Wiki (Zugang nur für Mitglieder des AK)](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
