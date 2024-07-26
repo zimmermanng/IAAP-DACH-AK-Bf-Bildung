@@ -157,7 +157,7 @@ Gehalten von Thorsten Schwarz
 	- OCR-Lösungen
 	- KI-Ansätze (Be My AI, ChatGPT und Co)
 
-## 8. Einführung Haptik
+### 8. Einführung Haptik
 1. haptische Wahrnehmung vs. taktiler Wahrnehmung (aus Nutzerperspektive): Haptisch ist etwas aktiv berühren (aktiv), taktil ist berührt zu werden (passiv). 
 2. Beispiele zu den Subgruppen
 3. Die haptische aktive Wahrnehmung umfasst folgende Aspekte:
