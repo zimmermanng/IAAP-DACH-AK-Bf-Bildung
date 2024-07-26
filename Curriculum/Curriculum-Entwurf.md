@@ -69,13 +69,12 @@ Gehalten von Thorsten Schwarz
 		- etc.
 
 ### 2. Der Weg zur (digitalen) Inklusion
-1. Erklärung: Exklusion, Separation, Integration und Inklusiomn im Vergleich
+1. Erklärung: Exklusion, Separation, Integration und Inklusion im Vergleich
 2. Detailierter: Integration vs. Inklusion 
 3. Bezug zur digitalen Inklusion - da wollen wir hin.
 	- „Alles für alle schnell und auf allen Wegen zugänglich machen.“
 	- “Diversity is a mix and inclusion is making the mix work.” - Andrés Tapia
 	- “The difference between diversity and inclusion is being invited to a house and being able to rearrange the furniture.” – Jane Silber
-
 
 ### 3. Rechtliche Grundlagen
 1. UN-Konvention über die Rechte von Menschen mit Behinderungen
@@ -125,7 +124,6 @@ Gehalten von Thorsten Schwarz
 5. Unterschied: Basis-, Voll- und Kurzschrift
 6. Weitere Braillenotationen (Musik, Mathematik, Sprachen, etc.)
 
-
 ### 6. Praxis-Teil
 1. Sensibilisierung mit Betroffenen
 2. Blinde/hochgradig sehbehinderte Kollegen zeigen, wie sie den Alltag bestreiten.
@@ -170,7 +168,6 @@ Gehalten von Thorsten Schwarz
 4. Die passive Wahrnehmung mechanischer Eindrücke wird auch als taktile Wahrnehmung (von lat. tangere, ,berühren’) bezeichnet. Sie ist Teil des Tastsinnes. Als Oberflächensensibilität bezeichnet man die Wahrnehmung von Reizen über in der Haut liegende Rezeptoren. Diese Rezeptoren werden in Mechano-, Thermo- und Schmerzrezeptoren unterteilt, mit deren Hilfe Druck, Berührung und Vibrationen sowie Temperatur und Schmerz wahrgenommen werden können.
 	- Beispiele
 
-
 ### 9. Assistive Technologien für den Informationszugang - Beispiel Blindheit - Teil 2
 Neue Hilfsmittelansätze
 1. Zweidimensionale taktile Displays
@@ -194,7 +191,6 @@ Neue Hilfsmittelansätze
 	* Zukunftsausblick
 		- Chipimplantate im Auge, was es gab, was es noch gibt, was kommt.
 		- Neuralink
-
 
 ### 10. Assistive Technologien für den Informationszugang - Beispiel Sehbehinderung
 1. Arten des Informationszugangs (gedruckt, elektronisch, gesprochen)
@@ -242,7 +238,6 @@ Neue Hilfsmittelansätze
 		- Ggf. Smarte Kontaktlinsen 
 			- Beispiele für schon vorhandene Lösungen (Blutzuckermessung, etc.)
 			- z.B. AR-Kontaktlinse Mojo Lens (auch wenn nicht meht weiter entwickelt, aber schöne Beispiele im Netz)
-
 
 ### 11. Richtlinien (WCAG, BITV)
 1. Barrierefreiheit im Web
@@ -791,7 +786,6 @@ Neue Hilfsmittelansätze
 	* Prinzip 6: Niedriger körperlicher Aufwand
 	* Prinzip 7: Größe und Platz für Zugang und Benutzung
 3. Design Matters!
-
 
 ### 19. Forschungsausblick
 1. Computer Vision und Barrierefreiheit
