@@ -18,6 +18,6 @@ Aktuelle Themen (Zugang nur für Mitglieder des AK):
 - [Kollaboratives Editieren in Lernkontexten](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/9)
 - [Bildbeschreibungen im Lernkontext](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/10)
 
-Wir treffen uns immer am 4. Mittwoch in ungeraden Monaten um 15-17 Uhr per Videokonferenz. 
+Wir treffen uns immer am 4. Mittwoch in geraden Monaten um 15-17 Uhr per Videokonferenz. 
 
 [Zum internen AK-Wiki (Zugang nur für Mitglieder des AK)](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
