@@ -17,6 +17,7 @@ Aktuelle Themen (Zugang nur für Mitglieder des AK):
 - [Zertifikat "Barrierefrei lehren"](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/8)
 - [Kollaboratives Editieren in Lernkontexten](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/9)
 - [Bildbeschreibungen im Lernkontext](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/10)
+- [Handreichung zum barrierefreien Umgang mit Daten](https://github.com/zimmermanng/IAAP-DACH-AK-Bf-Bildung/wiki/Handreichung:-Barrierefreie-Daten)
 
 Wir treffen uns immer am 4. Mittwoch in geraden Monaten um 15-17 Uhr per Videokonferenz. 
 
