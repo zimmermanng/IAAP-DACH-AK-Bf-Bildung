@@ -2,23 +2,13 @@
 
 Der Arbeitskreis "Barrierefreiheit in der Bildung" hat zum Ziel, die vielfältigen Themen der digitalen Barrierefreiheit als Teil der Bildung zu fördern, und zwar in Hochschulen und Schulen im Gebiet der IAAP-DACH (Deutschland, Schweiz, Österreich).  
 
-Der Arbeitskreis befasst sich insbesondere mit den folgenden Themenblöcken:
+Der Arbeitskreis befasst sich insbesondere mit den folgenden Themenblöcken (siehe aktuelle [Issues](issues)):
 1. Curriculum
-2. Zertifizierung
+2. Zertifizierung & Qualifizierung
 3. Gemeinsame Projekte
 4. Sensibilisierung & Awareness
 5. Best Practices
 
-Der Arbeitskreis ist grundsätzlich offen für alle Interessierten. Eine Mitgliedschaft in IAAP ist nicht erforderlich. Task Forces machen die eigentliche Arbeit zwischen den Meetings. Die Protokolle des Arbeitskreises sind öffentlich einsehbar (siehe [AK-Wiki](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/wikis/home)).
+Der Arbeitskreis ist grundsätzlich offen für alle Interessierten. Eine Mitgliedschaft in IAAP ist nicht erforderlich. Task Forces machen die eigentliche Arbeit zwischen den Meetings. Die Protokolle des Arbeitskreises sind öffentlich einsehbar (siehe [AK-Wiki](wiki)).
 
-Aktuelle Themen (Zugang nur für Mitglieder des AK):
-- [Thema Curriculum](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/2)
-- [Barrierefreie Formate in Lernkontexten](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/3)
-- [Zertifikat "Barrierefrei lehren"](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/8)
-- [Kollaboratives Editieren in Lernkontexten](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/9)
-- [Bildbeschreibungen im Lernkontext](https://gitlab.bf-hdm.de/iaap-dach/bildung/ak-barrierefreiheit-bildung/-/issues/10)
-- [Handreichung zum barrierefreien Umgang mit Daten](https://github.com/zimmermanng/IAAP-DACH-AK-Bf-Bildung/wiki/Handreichung:-Barrierefreie-Daten)
-
-Wir treffen uns immer am 4. Mittwoch in geraden Monaten um 15-17 Uhr per Videokonferenz. 
-
-[Zum internen AK-Wiki (Zugang nur für Mitglieder des AK)](https://gitlab.bf-hdm.de/iaap-dach/ak-barrierefreiheit-bildung/-/wikis/home)
+Wir treffen uns ca. 6 mal im Jahr per Videokonferenz. 
